@@ -7,7 +7,7 @@ Este es un proyecto **Full Stack** completo que consiste en:
 
 ## 🎬 Demo (GIF)
 
-![Product CRUD Demo](ruta/a/tu/gif/demo.gif)
+[![Ver demo en YouTube](https://img.youtube.com/vi/tu_video_id/0.jpg)](https://www.youtube.com/watch?v=tu_video_id)
 
 ---
 
